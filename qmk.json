@@ -1,6 +1,6 @@
 {
     "userspace_version": "1.1",
     "build_targets": [
-        ["inland/mk47", "default"]
+        ["inland/mk47", "michael"]
     ]
 }
