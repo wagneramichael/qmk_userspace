@@ -1,0 +1,8 @@
+{
+  "modules": [
+    "getreuer/sentence_case",
+    "getreuer/mouse_turbo_click",
+    "getreuer/orbital_mouse",
+    "getreuer/socd_cleaner"
+  ]
+}
